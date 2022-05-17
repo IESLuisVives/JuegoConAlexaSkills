@@ -17,5 +17,5 @@ Se trata de un juego con un formato basado en las ***historias interactivas***, 
 - Alexa Skills Kit 
   - Librería de sonidos
   - Librería de entonaciones 
-
+- API REST
 
